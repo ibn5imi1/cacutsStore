@@ -1,2 +1,2 @@
 # cacutsStore
-updae project Cactus Sotre
+A site for selling cacti with beautiful animation
